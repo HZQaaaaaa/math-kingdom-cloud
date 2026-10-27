@@ -1,0 +1,13 @@
+{
+  "id": "spring-fest",
+  "name": "过年 · 数饺子",
+  "tagline": "热腾腾的饺子出锅啦，数一数",
+  "skill": "count10",
+  "qType": "count",
+  "itemShape": "jiaozi",
+  "start": "2027-01-20",
+  "end": "2027-02-20",
+  "coin": 30,
+  "theme": "#C0514D",
+  "q": 5
+}

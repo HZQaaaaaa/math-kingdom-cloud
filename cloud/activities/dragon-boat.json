@@ -1,0 +1,13 @@
+{
+  "id": "dragon-boat",
+  "name": "端午 · 数粽子",
+  "tagline": "香喷喷的粽子出锅啦，数一数",
+  "skill": "count10",
+  "qType": "count",
+  "itemShape": "dumpling",
+  "start": "2026-05-28",
+  "end": "2026-06-15",
+  "coin": 30,
+  "theme": "#6FA56F",
+  "q": 5
+}

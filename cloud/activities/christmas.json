@@ -1,0 +1,13 @@
+{
+  "id": "christmas",
+  "name": "圣诞 · 数礼物",
+  "tagline": "圣诞老人送礼物，数数有几份",
+  "skill": "count10",
+  "qType": "count",
+  "itemShape": "gift",
+  "start": "2026-12-20",
+  "end": "2027-01-03",
+  "coin": 30,
+  "theme": "#C0514D",
+  "q": 5
+}
