@@ -1,0 +1,13 @@
+{
+  "id": "mid-autumn",
+  "name": "中秋 · 数月饼",
+  "tagline": "帮小勇士数一数月饼，限时挑战赢金币",
+  "skill": "count10",
+  "qType": "count",
+  "itemShape": "mooncake",
+  "start": "2026-09-10",
+  "end": "2026-11-10",
+  "coin": 30,
+  "theme": "#E29B3C",
+  "q": 5
+}
